@@ -2,7 +2,7 @@
   
 - 😄 welcome to my LinkedIn profile!. I have completed my post graduation MBA in HR. I'm passionate about software development.
 
-- 👩‍💻 1 year of professional experience as a Python full-stack developer at codebook.
+- 👩‍💻 6 months of internship experience as a Python full-stack developer at codebook.
 
 - ✨ Technical skills include Python programming language, Django web frame work, HTML, CSS, Bootstrap, JavaScript, MySQL, Bootstrap
 
