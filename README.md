@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sravani Chiramana
   
-- 😄 welcome to my GitHub profile!. I have completed my post graduation MBA in HR. I'm passionate about software development.
+- 😄 Welcome to my GitHub profile!. I have completed my post graduation MBA in HR. I'm passionate about software development.
 
 - 👩‍💻 6 months of internship experience as a Python full-stack developer at codebook.
 
